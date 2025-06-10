@@ -25,9 +25,13 @@ This repository contains a community-submitted translation of FileRun into **Ban
 | File Name              | Description                                    |
 |------------------------|------------------------------------------------|
 | `russian.php`          | Source file used for translation              |
-| `bangla.php`           | Translated version in Bangla (Bengali)        |
+| [bangla.php](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bangla.php)          | Translated version in Bangla (Bengali)        |
 
 ---
+
+## How to Download
+
+### 👉 [Download Latest Version - Bangla](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bangla.php)
 
 ## 💬 How to Contribute
 
