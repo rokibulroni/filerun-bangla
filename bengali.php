@@ -1,9 +1,8 @@
 <?php return array (
   'trans' => 
   array (
-	  
 			'Login Page' =>
-				[
+			    array (
 					'Username' => 'ইউজারনেম',
 					'Password' => 'পাসওয়ার্ড',
 					'Language' => 'ভাষা',
@@ -30,9 +29,9 @@
 					'Add a new <a href="%1" target="_blank">Google Authenticator</a> account with the following key:' => 'নিচের কী দিয়ে একটি নতুন <a href="%1" target="_blank">Google Authenticator</a> অ্যাকাউন্ট যুক্ত করুন:',
 					'2-step: Add account' => '২-স্টেপ: অ্যাকাউন্ট যুক্ত করুন',
 					'Authentication should be made with the remote system.' => 'অথেনটিকেশনটি রিমোট সিস্টেমের মাধ্যমে সম্পন্ন করা উচিত।',
-				],
-			'User Registration' =>
-				[
+			  ),
+    'User Registration' => 
+    array (
 					'User Registration' => 'ইউজার রেজিস্ট্রেশন',
 					'Username' => 'ইউজারনেম',
 					'E-mail address' => 'ইমেইল ঠিকানা',
@@ -65,9 +64,9 @@
 					'Loading...' => 'লোড হচ্ছে...',
 					'Phone' => 'ফোন',
 					'Please type the phone number' => 'অনুগ্রহ করে ফোন নম্বর লিখুন',
-				],
-			'Password Reset' =>
-				[
+			  ),
+    'Password Reset' => 
+    array (
 					'The login information has been sent to your email address.' => 'লগইন সংক্রান্ত তথ্য আপনার ইমেইলে পাঠানো হয়েছে।',
 					'Password Reset' => 'পাসওয়ার্ড রিসেট',
 					'E-mail address' => 'ইমেইল ঠিকানা',
@@ -75,9 +74,9 @@
 					'Please type the e-mail address.' => 'অনুগ্রহ করে ইমেইল ঠিকানা লিখুন।',
 					'Please wait...' => 'অনুগ্রহ করে অপেক্ষা করুন...',
 					'Sign in' => 'সাইন ইন',
-				],
+				),
 			'Main Interface' =>
-				[
+				array (
 					'The file is already in the download cart' => 'ফাইল ইতিমধ্যেই ডাউনলোড কার্টে আছে',
 					'Rating' => 'রেটিং',
 					'Please check your network connection.' => 'দয়া করে আপনার নেটওয়ার্ক সংযোগটি পরীক্ষা করুন।',
@@ -354,9 +353,9 @@
 					'New folder' => 'নতুন ফোল্ডার তৈরি করুন',
 					'There are no folders in here' => 'এখানে কোন ফোল্ডার নেই',
 					'Failed to load data!' => 'ডেটা লোড করতে ব্যর্থ!',
-				],
+				),
 			'General' =>
-				[
+				array (
 					'One file successfully copied.' => 'একটি ফাইল সফলভাবে কপি হয়েছে',
 					'Folder successfully moved.' => 'ফোল্ডার সফলভাবে স্থানান্তরিত হয়েছে',
 					'One minute ago' => 'এক মিনিট আগে',
@@ -508,9 +507,9 @@
 					'The selected file or folder no longer exists!' => 'নির্বাচিত ফাইল বা ফোল্ডার আর বিদ্যমান নয়!',
 					'Please type a new folder name!' => 'একটি নতুন ফোল্ডারের নাম লিখুন!',
 					'Please type a new file name!' => 'একটি নতুন ফাইলের নাম লিখুন!',
-				],
+				),
 			'[deprecated] DateTime' =>
-				[
+				array (
 					'This month' => 'এই মাস',
 					'January' => 'জানুয়ারি',
 					'February' => 'ফেব্রুয়ারি',
@@ -550,9 +549,9 @@
 					'Oct' => 'অক্টো',
 					'Nov' => 'নভে',
 					'Dec' => 'ডিসে',
-				],
+				),
 			'Trash' =>
-				[
+				array (
 					'A file or folder already exists at the original location.' => 'মুল অবস্থানে একটি ফাইল বা ফোল্ডার ইতিমধ্যে বিদ্যমান।',
 					'One item permanently deleted.' => 'একটি আইটেম স্থায়ীভাবে মুছে ফেলা হয়েছে।',
 					'No items were restored!' => 'কোনো আইটেম পুনরুদ্ধার করা হয়নি!',
@@ -561,9 +560,9 @@
 					'Trash emptied' => 'কোড়া খালি করা হয়েছে',
 					'Failed to empty trash' => 'কোড়া খালি করতে ব্যর্থ',
 					'%1 items permanently deleted.' => '%1 আইটেম স্থায়ীভাবে মুছে ফেলা হয়েছে।',
-				],
+				),
 			'Account Settings' =>
-				[
+				array (
 					'Current password' => 'বর্তমান পাসওয়ার্ড',
 					'New password' => 'নতুন পাসওয়ার্ড',
 					'Confirm new password' => 'নতুন পাসওয়ার্ড নিশ্চিত করুন',
@@ -602,9 +601,9 @@
 					'Failed to upload image file: %1' => 'ইমেজ ফাইল আপলোড করতে ব্যর্থ: %1',
 					'Profile image' => 'প্রোফাইল ইমেজ',
 					'Phone' => 'ফোন',
-				],
+				),
 			'File Upload' =>
-				[
+				array (
 					'File uploaded' => 'ফাইল আপলোড হয়েছে',
 					'Failed to create folder' => 'ফোল্ডার তৈরি করতে ব্যর্থ হয়েছে',
 					'Failed to upload file "%1": %2' => 'ফাইল "%1" আপলোড করতে ব্যর্থ: %2',
@@ -616,9 +615,9 @@
 					'Failed to upload file part' => 'ফাইলের একটি অংশ আপলোড করতে ব্যর্থ হয়েছে,
 ',
 					'Failed to upload file. Please try again.' => 'ফাইল আপলোড করতে ব্যর্থ হয়েছে। অনুগ্রহ করে আবার চেষ্টা করুন।',
-				],
+				),
 			'E-mail Files' =>
-				[
+				array (
 					'Done' => 'সম্পন্ন',
 					'Please fill in "From" field!' => 'অনুগ্রহ করে "প্রেরক" ক্ষেত্রটি পূরণ করুন!',
 					'Please set at least one recipient!' => 'কমপক্ষে একজন প্রাপক নির্ধারণ করুন!',
@@ -653,9 +652,9 @@
 					'%1 sent you a file' => '%1 আপনাকে একটি ফাইল পাঠিয়েছে',
 					'%1 sent you %2 files' => '%1 আপনাকে %2টি ফাইল পাঠিয়েছে',
 					'Please wait' => 'অনুগ্রহ করে অপেক্ষা করুন',
-				],
+				),
 			'Share Files' =>
-				[
+				array (
 					'Add guest user' => 'অতিথি ব্যবহারকারী যুক্ত করুন',
 					'Next' => 'পরবর্তী',
 					'Upload' => 'আপলোড',
@@ -679,15 +678,15 @@
 					'Share as' => 'হিসেবে ভাগ করুন',
 					'Share links' => 'লিংক ভাগ করুন',
 					'Add user' => 'ব্যবহারকারী যুক্ত করুন',
-				],
+				),
 			'Folder Notifications' =>
-				[
+				array (
 					'Notification settings successfully saved' => 'বিজ্ঞপ্তির সেটিংস সফলভাবে সংরক্ষিত হয়েছে',
 					'Notifications for "read" actions cannot be set on shared folders.' => 'শেয়ার করা ফোল্ডারে "পড়া" কার্যকলাপের জন্য বিজ্ঞপ্তি সেট করা যাবে না।',
 					'No changes were made.' => 'কোনো পরিবর্তন করা হয়নি।',
-				],
+				),
 			'Web Links' =>
-				[
+				array (
 					'Upload' => 'আপলোড',
 					'The link has been copied to clipboard.' => 'লিংকটি ক্লিপবোর্ডে কপি করা হয়েছে।',
 					'Loading data...' => 'ডেটা লোড হচ্ছে...',
@@ -764,9 +763,9 @@
 					'Copy' => 'কপি করুন',
 					'Require visitors to be signed in.' => 'দর্শনার্থীদের সাইন ইন করতে হবে।',
 					'Only registered users will be able to access this link.' => 'শুধুমাত্র নিবন্ধিত ব্যবহারকারীরা এই লিংকে প্রবেশ করতে পারবে।',
-				],
+				),
 			'Files Activity Log' =>
-				[
+				array (
 					'Date' => 'তারিখ',
 					'User' => 'ব্যবহারকারী',
 					'Action' => 'কর্ম',
@@ -839,9 +838,9 @@
 					'Are you sure you want to clear the file\'s activity log?' => 'আপনি কি নিশ্চিত যে আপনি ফাইলের কার্যকলাপ লগ মুছে ফেলতে চান?',
 					'Activity log successfully cleared' => 'কার্যকলাপ লগ সফলভাবে মুছে ফেলা হয়েছে',
 					'Failed to clear activity log' => 'কার্যকলাপ লগ মুছে ফেলতে ব্যর্থ হয়েছে',
-				],
+				),
 			'Metadata' =>
-				[
+				array (
 					'You are not allowed to alter data in this shared folder.' => 'আপনি এই শেয়ার করা ফোল্ডারে ডেটা পরিবর্তন করার অনুমতি পাননি।',
 					'File Type' => 'ফাইলের ধরন',
 					'Select...' => 'সিলেক্ট করুন...',
@@ -852,9 +851,9 @@
 					'- No Special Type -' => '- বিশেষ কোনো ধরন নেই -',
 					'No changes were made' => 'কোনো পরিবর্তন করা হয়নি',
 					'Changes saved' => 'পরিবর্তন সংরক্ষিত হয়েছে',
-				],
+				),
 			'Versioning' =>
-				[
+				array (
 					'Version' => 'ভার্সন',
 					'User' => 'ব্যবহারকারী',
 					'Date' => 'তারিখ',
@@ -877,9 +876,9 @@
 					'The file is not locked.' => 'ফাইলটি লক করা হয়নি।',
 					'The file is already locked.' => 'ফাইলটি ইতিমধ্যে লক করা হয়েছে।',
 					'Preview' => 'প্রিভিউ',
-				],
+				),
 			'Searching' =>
-				[
+				array (
 					'File name' => 'ফাইলের নাম',
 					'File contents' => 'সামগ্রী',
 					'Look in' => 'অনুসন্ধান করুন',
@@ -892,15 +891,15 @@
 					'- None Selected -' => '- কিছুই নির্বাচিত হয়নি -',
 					'Metadata Type' => 'মেটাডেটার ধরন',
 					'Field Value' => 'ফিল্ড মান',
-				],
+				),
 			'Custom Actions: CloudConvert' =>
-				[
+				array (
 					'API Key' => 'এপিআই কী',
 					'Convert "%1" to:' => '"%1" কনভার্ট করুন:',
 					'No conversion option found for the "%1" file type.' => '"%1" ফাইল প্রকারের জন্য কোনো কনভার্শন অপশন পাওয়া যায়নি।',
-				],
+				),
 			'File Comments' =>
-				[
+				array (
 					'Author' => 'লেখক',
 					'Comment' => 'মন্তব্য',
 					'Add comment' => 'মন্তব্য যুক্ত করুন',
@@ -918,9 +917,9 @@
 					'Failed to add comment to file.' => 'ফাইলে মন্তব্য যুক্ত করতে ব্যর্থ।',
 					'Comment successfully removed.' => 'মন্তব্য সফলভাবে মুছে ফেলা হয়েছে।',
 					'Failed to remove comment from file.' => 'ফাইল থেকে মন্তব্য মুছে ফেলতে ব্যর্থ।',
-				],
+				),
 			'Custom Actions: Text Editor' =>
-				[
+				array (
 					'Text Editor' => 'টেক্সট এডিটর',
 					'Text File' => 'টেক্সট ফাইল',
 					'Untitled.txt' => 'অ-শিরোনাম.txt',
@@ -937,17 +936,17 @@
 					'Word wrap' => 'শব্দ মোড়ানো',
 					'The file type is not allowed.' => 'এই ধরনের ফাইলের অনুমতি নেই।',
 					'Close' => 'বন্ধ করুন',
-				],
+				),
 			'Custom Actions: Zoho' =>
-				[
+				array (
 					'API key' => 'এপিআই কী',
 					'Zoho Editor' => 'Zoho এডিটর',
 					'Document with Zoho' => 'Zoho দিয়ে ডকুমেন্ট',
 					'Untitled.docx' => 'অ-শিরোনাম.docx',
 					'Blank file created successfully' => 'খালি ফাইল সফলভাবে তৈরি হয়েছে',
-				],
+				),
 			'Custom Actions: Image Editor' =>
-				[
+				array (
 					'Apply' => 'আবেদন করুন',
 					'Close' => 'বন্ধ করুন',
 					'Save and close' => 'সংরক্ষণ করুন এবং বন্ধ করুন',
@@ -965,9 +964,9 @@
 					'Full size' => 'পূর্ণ আকার',
 					'Reload image' => 'ছবি পুনরায় লোড করুন',
 					'Uploading image..' => 'ছবি আপলোড হচ্ছে...',
-				],
+				),
 			'Custom Actions: File Encryption' =>
-				[
+				array (
 					'Path to AESCrypt' => 'AESCrypt-এর পাথ',
 					'Download and install AESCrypt from <a href="%1" target="_blank">here</a>.' => '<a href="%1" target="_blank">এখান থেকে</a> AESCrypt ডাউনলোড এবং ইনস্টল করুন।',
 					'AES File Encryption' => 'AES ফাইল এনক্রিপশন',
@@ -986,9 +985,9 @@
 					'Delete the source file' => 'সোর্স ফাইল ডিলিট করুন',
 					'Please type the password' => 'অনুগ্রহ করে পাসওয়ার্ড লিখুন',
 					'Please confirm the password' => 'অনুগ্রহ করে পাসওয়ার্ড নিশ্চিত করুন',
-				],
+				),
 			'Admin' =>
-				[
+				array (
 					'Control Panel' => 'কন্ট্রোল প্যানেল',
 					'Users' => 'ইউজারস',
 					'Import users' => 'ইউজার ইমপোর্ট করুন',
@@ -1068,9 +1067,9 @@
 					'More' => 'আরও',
 					'Notifications' => 'নোটিফিকেশন',
 					'Add new' => 'নতুন যুক্ত করুন',
-				],
+				),
 			'Admin: Setup' =>
-				[
+				array (
 					'Music' => 'মিউজিক',
 					'Upload language file' => 'ভাষা ফাইল আপলোড করুন',
 					'Application title' => 'অ্যাপ্লিকেশনের টাইটেল',
@@ -1225,9 +1224,9 @@
 					'Enabling this puts your data at risk and should not be used during production.' => 'এটি চালু করলে আপনার ডেটা ঝুঁকিতে পড়বে এবং প্রোডাকশনে এটি ব্যবহার করা উচিত নয়।',
 					'Groups to import' => 'ইম্পোর্ট করার জন্য গ্রুপ',
 					'Use the file "css/theme_template.css" as the example.' => 'উদাহরণ হিসেবে "css/theme_template.css" ফাইলটি ব্যবহার করুন।',
-				],
+				),
 			'Admin: Users' =>
-				[
+				array (
 					'Date Format: Registration date' => 'd M Y',
 					'Date Format: Last login' => 'd.m.Y, H:i',
 					'Date Format: Expiration date' => 'd.m.Y',
@@ -1412,9 +1411,9 @@
 					'A file has been downloaded by another user.' => 'একটি ফাইল অন্য ইউজার দ্বারা ডাউনলোড করা হয়েছে।',
 					'Another user provided a file or a folder via copying, moving, uploading or sharing.' => 'আরেকজন ইউজার একটি ফাইল বা ফোল্ডার সরানো, কপি করা, আপলোড করা বা শেয়ার করার মাধ্যমে প্রদান করেছে।',
 					'Another user added a comment or set a label on a file or a folder.' => 'আরেকজন ইউজার একটি ফাইলে বা ফোল্ডারে মন্তব্য বা লেবেল যুক্ত করেছে।',
-				],
+				),
 			'Admin: Groups' =>
-				[
+				array (
 					'You are not allowed to delete groups.' => 'আপনাকে গ্রুপ মুছে ফেলার অনুমতি দেওয়া হয়নি।',
 					'You are not allowed to manage user groups.' => 'আপনাকে ব্যবহারকারী গ্রুপ পরিচালনার অনুমতি দেওয়া হয়নি।',
 					'You are not allowed to manage this group.' => 'আপনাকে এই গ্রুপ পরিচালনার অনুমতি দেওয়া হয়নি।',
@@ -1443,9 +1442,9 @@
 					'Users' => 'ব্যবহারকারী',
 					'Add Group' => 'গ্রুপ যুক্ত করুন',
 					'Group successfully updated!' => 'গ্রুপ সফলভাবে আপডেট হয়েছে!',
-				],
+				),
 			'Admin: Notifications' =>
-				[
+				array (
 					'Notifications' => 'নোটিফিকেশন',
 					'Notification rule added.' => 'নোটিফিকেশন নিয়ম যুক্ত করা হয়েছে।',
 					'Failed to add notification!' => 'নোটিফিকেশন যুক্ত করতে ব্যর্থ হয়েছে!',
@@ -1562,9 +1561,9 @@
 					'New shared file available' => 'নতুন শেয়ার করা ফাইল উপলব্ধ',
 					'Guest user added' => 'অতিথি ব্যবহারকারী যুক্ত করা হয়েছে',
 					'Guest account created' => 'অতিথি অ্যাকাউন্ট তৈরি হয়েছে',
-				],
+				),
 			'Admin: Logs' =>
-				[
+				array (
 					'Date Format: Grid - Date' => 'd.m.Y, H:i',
 					'Activity logs' => 'ক্রিয়াকলাপ লগ',
 					'Toggle search options' => 'খোঁজের বিকল্পগুলি পরিবর্তন করুন',
@@ -1589,17 +1588,17 @@
 					'Action' => 'অ্যাকশন',
 					'Search Activity Logs' => 'ক্রিয়াকলাপ লগ অনুসন্ধান',
 					'Export' => 'এক্সপোর্ট',
-				],
+				),
 			'Admin: Metadata' =>
-				[
+				array (
 					'You cannot delete this file type.' => 'আপনি এই ফাইলের ধরন মুছতে পারবেন না।',
 					'Metadata' => 'মেটাডেটা',
 					'Manage the different types of information that can be associated with classes of files.' => 'ফাইলের শ্রেণীর সাথে সংযুক্ত করা যেতে পারে এমন বিভিন্ন ধরনের তথ্য পরিচালনা করুন।',
 					'You are not allowed to manage the metadata settings.' => 'আপনাকে মেটাডেটা সেটিংস পরিচালনা করার অনুমতি দেওয়া হয়নি।',
 					'Fieldsets' => 'ফিল্ডসেটস',
-				],
+				),
 			'Admin: Metadata: Filetypes' =>
-				[
+				array (
 					'Comma separated list of file types that should automatically use this file type.' => 'কমা দ্বারা পৃথক করা ফাইলের ধরণগুলির তালিকা, যেগুলি স্বয়ংক্রিয়ভাবে এই ফাইলের ধরন ব্যবহার করবে।',
 					'File type' => 'ফাইলের ধরন',
 					'File types' => 'ফাইলের ধরনগুলি',
@@ -1628,9 +1627,9 @@
 					'Automatic source' => 'স্বয়ংক্রিয় উৎস',
 					'This is the path to the "Media Info" field.' => 'এটি "মিডিয়া ইনফো" ফিল্ডের পথ।',
 					'File count' => 'ফাইলের সংখ্যা',
-				],
+				),
 			'Admin: Metadata: Fieldsets' =>
-				[
+				array (
 					'Fieldset successfully deleted!' => 'ফিল্ডসেট সফলভাবে মুছে ফেলা হয়েছে!',
 					'Add field set' => 'ফিল্ডসেট যুক্ত করুন',
 					'Please type a name for the field set!' => 'দয়া করে ফিল্ডসেটের জন্য একটি নাম লিখুন!',
@@ -1657,9 +1656,9 @@
 					'Fields can be added after creating the set.' => 'ফিল্ডগুলি সেট তৈরি করার পরে যুক্ত করা যেতে পারে।',
 					'Please confirm field set deletion.' => 'দয়া করে ফিল্ডসেট মুছে ফেলার জন্য নিশ্চিত করুন।',
 					'Add' => 'যুক্ত করুন',
-				],
+				),
 			'Admin: Metadata: Fields' =>
-				[
+				array (
 					'Fields' => 'ফিল্ডস',
 					'Add Field' => 'নতুন ফিল্ড',
 					'Edit Field' => 'সম্পাদনা করুন',
@@ -1689,9 +1688,9 @@
 					'Single value' => 'পূর্বনির্ধারিত তালিকা',
 					'Multiple values' => 'একাধিক মান',
 					'Date/time' => 'তারিখ/সময়',
-				],
+				),
 			'Admin: Licensing' =>
-				[
+				array (
 					'Software licensing' => 'সফটওয়্যার লাইসেন্সিং',
 					'You are using <b>%1 user accounts</b> out of <b>%2</b>.' => 'আপনি <b>%1 ব্যবহারকারী অ্যাকাউন্ট</b> ব্যবহার করছেন মোট <b>%2</b> এর মধ্যে।',
 					'Update' => 'আপডেট',
@@ -1705,9 +1704,9 @@
 					'Please provide the key!' => 'দয়া করে কী প্রদান করুন!',
 					'Your FileRun license is now registered.' => 'আপনার FileRun লাইসেন্স এখন নিবন্ধিত।',
 					'An e-mail message has been now sent to you.' => 'একটি ইমেইল বার্তা এখন আপনাকে পাঠানো হয়েছে।',
-				],
+				),
 			'Admin: Software update' =>
-				[
+				array (
 					'Software update' => 'সফটওয়্যার আপডেট',
 					'Step 1:' => 'ধাপ ১:',
 					'Check for updates' => 'আপডেট পরীক্ষা করুন',
@@ -1718,9 +1717,9 @@
 					'Start over (to check for more updates)' => 'পুনরায় শুরু করুন (আরও আপডেট পরীক্ষা করার জন্য)',
 					'Step 4:' => 'ধাপ ৪:',
 					'Your current software version is %1' => 'আপনার বর্তমান সফটওয়্যার সংস্করণ %1',
-				],
+				),
 			'Admin: Roles' =>
-				[
+				array (
 					'Add a new user role.' => 'নতুন ব্যবহারকারী ভূমিকা যুক্ত করুন।',
 					'Create role' => 'ভূমিকা তৈরি করুন',
 					'Role name' => 'ভূমিকার নাম',
@@ -1751,18 +1750,18 @@
 					'Role successfully deleted!' => 'ভূমিকা সফলভাবে মুছে ফেলা হয়েছে!',
 					'Home folder' => 'হোম ফোল্ডার',
 					'Path template' => 'পথ টেমপ্লেট',
-				],
+				),
 			'Admin: WebLinks' =>
-				[
+				array (
 					'Path' => 'পথ',
 					'User' => 'ব্যবহারকারী',
 					'Expires' => 'মেয়াদ উত্তীর্ণ',
 					'Password' => 'পাসওয়ার্ড',
 					'Allow uploads' => 'আপলোড অনুমোদন করুন',
 					'Created' => 'তৈরি হয়েছে',
-				],
+				),
 			'Admin: Tools' =>
-				[
+				array (
 					'Name' => 'নাম',
 					'Username' => 'ব্যবহারকারীর নাম',
 					'Quota' => 'কোটা',
@@ -1772,9 +1771,9 @@
 					'Last reset happened on %1.' => 'শেষ রিসেট %1 তারিখে হয়েছে।',
 					'Reset now' => 'এখন রিসেট করুন',
 					'Id' => 'আইডি',
-				],
+				),
 			'Admin: Tools: Import Users' =>
-				[
+				array (
 					'Comma' => 'কমা',
 					'Semicolon' => 'সেমিকোলন',
 					'Tab' => 'ট্যাব',
@@ -1819,9 +1818,9 @@
 					'An e-mail message with the login information will be sent to the user\'s address.' => 'লগইন তথ্য সহ একটি ই-মেইল বার্তা ব্যবহারকারীর ঠিকানায় পাঠানো হবে।',
 					'The CSV file needs to contain at least two columns, for username and name.' => 'CSV ফাইলে কমপক্ষে দুটি কলাম থাকতে হবে, একটি ব্যবহারকারীর নাম এবং একটি নামের জন্য।',
 					'You will be asked to map the fields, so the names and the order of the columns are not important.' => 'আপনাকে ক্ষেত্রগুলি মানচিত্র করার জন্য বলা হবে, তাই কলামের নাম এবং অর্ডার গুরুত্বপূর্ণ নয়।',
-				],
+				),
 			'Metadata: Custom' =>
-				[
+				array (
 					'Image proprieties' => 'ছবির বৈশিষ্ট্য',
 					'Audio proprieties' => 'অডিও বৈশিষ্ট্য',
 					'Height' => 'উচ্চতা',
@@ -1844,13 +1843,13 @@
 					'Tags' => 'ট্যাগ',
 					'Date Created' => 'তৈরির তারিখ',
 					'Rating' => 'রেটিং',
-				],
+				),
 			'Custom Actions: MediaInfo' =>
-				[
+				array (
 					'Media Info' => 'মিডিয়া তথ্য',
-				],
+				),
 			'Stars' =>
-				[
+				array (
 					'You are not allowed to set stars!' => 'আপনি স্টার সেট করতে পারবেন না!',
 					'No stars were added' => 'কোনো স্টার যুক্ত করা হয়নি',
 					'Star successfully added' => 'স্টার সফলভাবে যুক্ত করা হয়েছে',
@@ -1858,13 +1857,13 @@
 					'No stars were removed' => 'কোনো স্টার মুছে ফেলা হয়নি',
 					'Star successfully removed' => 'স্টার সফলভাবে মুছে ফেলা হয়েছে',
 					'%1 stars successfully removed' => '%1টি স্টার সফলভাবে মুছে ফেলা হয়েছে',
-				],
+				),
 			'Admin: Tools: Export Users' =>
-				[
+				array (
 					'Export' => 'এক্সপোর্ট',
-				],
+				),
 			'Admin: API' =>
-				[
+				array (
 					'Name' => 'নাম',
 					'Client/App name' => 'ক্লায়েন্ট/অ্যাপ নাম',
 					'Publisher' => 'প্রকাশক',
@@ -1891,9 +1890,9 @@
 					'App website' => 'অ্যাপ সাইট',
 					'Enable API' => 'এপিআই সক্ষম করুন',
 					'OAuth2 requires that you access this website via HTTPS' => 'OAuth2 প্রয়োজন যে আপনি এই সাইটে HTTPS এর মাধ্যমে প্রবেশ করুন',
-				],
+				),
 			'OAuth2' =>
-				[
+				array (
 					'OAuth2 Consent' => 'ওপেন অথোরাইজেশন প্রোটোকল (OAuth2) সম্মতি দিন',
 					'List files and folders in your "%1" account.' => 'আপনার "%1" অ্যাকাউন্টে ফাইল এবং ফোল্ডারের তালিকা করুন।',
 					'List files and folders inside your "Apps/%1" folder.' => 'আপনার "Apps/%1" ফোল্ডারের ভিতরের ফাইল এবং ফোল্ডারের তালিকা করুন।',
@@ -1942,9 +1941,9 @@
 					'Or use' => 'অথবা ব্যবহার করুন',
 					'Single sign-on' => 'একক সাইন-অন',
 					'Access and manage files available in your "%1" account.' => 'আপনার "%1" অ্যাকাউন্টে উপলব্ধ ফাইলগুলি অ্যাক্সেস এবং পরিচালনা করুন।',
-				],
+				),
 			'Custom Actions: Google Editor' =>
-				[
+				array (
 					'Read the <a href="%1" target="_blank">configuration guide</a>.' => '<a href="%1" target="_blank">কনফিগারেশন গাইড</a> পড়ুন।',
 					'OAuth Client Secret' => 'OAuth ক্লায়েন্ট সিক্রেট',
 					'OAuth Client ID' => 'OAuth ক্লায়েন্ট আইডি',
@@ -1954,9 +1953,9 @@
 					'Importing document from Google...' => 'গুগল থেকে ডকুমেন্ট ইমপোর্ট করা হচ্ছে...',
 					'Blank file created successfully' => 'খালি ফাইল সফলভাবে তৈরি হয়েছে।',
 					'Document with Google' => 'গুগলের সাথে ডকুমেন্ট',
-				],
+				),
 			'Notifications' =>
-				[
+				array (
 					'Your file "%1" was downloaded through the shared link.' => 'আপনার ফাইল "%1" শেয়ার করা লিঙ্কের মাধ্যমে ডাউনলোড করা হয়েছে।',
 					'From the IP address: %1' => 'IP ঠিকানা থেকে: %1',
 					'The folder "%1" has been accessed through the shared link.' => 'ফোল্ডার "%1" শেয়ার করা লিঙ্কের মাধ্যমে অ্যাক্সেস করা হয়েছে।',
@@ -1980,9 +1979,9 @@
 					'User "<strong>%1</strong>" restored the file "<strong>%2</strong>".' => 'ব্যবহারকারী "<strong>%1</strong>" ফাইল "<strong>%2</strong>" পুনরুদ্ধার করেছেন।',
 					'User "<strong>%1</strong>" restored the folder "<strong>%2</strong>".' => 'ব্যবহারকারী "<strong>%1</strong>" ফোল্ডার "<strong>%2</strong>" পুনরুদ্ধার করেছেন।',
 					'The file %LINK has been uploaded via a shared web link.' => 'ফাইল %LINK একটি শেয়ার করা ওয়েব লিঙ্কের মাধ্যমে আপলোড করা হয়েছে।',
-				],
+				),
 			'Admin: Plugins' =>
-				[
+				array (
 					'Edit default viewer' => 'ডিফল্ট ভিউয়ার সম্পাদনা করুন',
 					'Add default viewer' => 'ডিফল্ট ভিউয়ার যুক্ত করুন',
 					'File type' => 'ফাইলের ধরন',
@@ -1990,9 +1989,9 @@
 					'File extensions' => 'ফাইল এক্সটেনশনগুলো',
 					'Preview with' => 'এটি দিয়ে প্রিভিউ করুন',
 					'The selected file type is already assigned.' => 'নির্বাচিত ফাইলের ধরন ইতিমধ্যে নির্ধারিত।',
-				],
+				),
 			'Custom Actions: Audio Player' =>
-				[
+				array (
 					'Audio Player' => 'অডিও প্লেয়ার',
 					'Select' => 'নির্বাচন করুন',
 					'Loading audio player...' => 'অডিও প্লেয়ার লোড হচ্ছে...',
@@ -2001,21 +2000,21 @@
 					'Play/Pause' => 'প্লে/পজ',
 					'Next' => 'পরবর্তী',
 					'Shuffle' => 'অদলবদল',
-				],
+				),
 			'Custom Actions: Archive Explorer' =>
-				[
+				array (
 					'Archive Explorer' => 'আর্কাইভ এক্সপ্লোরার',
-				],
+				),
 			'Custom Actions: Video Player' =>
-				[
+				array (
 					'Video Player' => 'ভিডিও প্লেয়ার',
-				],
+				),
 			'Custom Actions: Image Viewer' =>
-				[
+				array (
 					'Image Viewer' => 'ইমেজ ভিউয়ার',
-				],
+				),
 			'Custom Actions: ONLYOFFICE' =>
-				[
+				array (
 					'Download and install %1' => '%1 ডাউনলোড এবং ইনস্টল করুন',
 					'DocumentServer URL' => 'ডকুমেন্ট সার্ভার URL',
 					'Document with ONLYOFFICE' => 'ONLYOFFICE এর সাথে ডকুমেন্ট',
@@ -2028,37 +2027,37 @@
 					'The file extension needs to be one of the following: %1' => 'ফাইলের এক্সটেনশন নিম্নলিখিতগুলির মধ্যে একটি হতে হবে: %1',
 					'A file with the specified name already exists. Please try again.' => 'নির্দিষ্ট নামের সাথে একটি ফাইল ইতিমধ্যেই বিদ্যমান। দয়া করে আবার চেষ্টা করুন।',
 					'Blank file created successfully' => 'খালি ফাইল সফলভাবে তৈরি হয়েছে।',
-				],
+				),
 			'Custom Actions: Zamzar' =>
-				[
+				array (
 					'API key' => 'এপিআই কী',
 					'Zamzar' => 'ফাইল কনভার্টার',
-				],
+				),
 			'Custom Actions: Autodesk' =>
-				[
+				array (
 					'API client ID' => 'এপিআই ক্লায়েন্ট আইডি',
 					'API client secret' => 'এপিআই ক্লায়েন্ট গোপনীয়তা',
-				],
+				),
 			'Custom Actions: Office' =>
-				[
+				array (
 					'Office' => 'অফিস',
-				],
+				),
 			'Custom Actions: Google Earth' =>
-				[
+				array (
 					'Google Maps' => 'গুগল মানচিত্র',
-				],
+				),
 			'Custom Actions' =>
-				[
+				array (
 					'New tab' => 'নতুন ট্যাব',
-				],
+				),
 			'Custom Actions: E-book Reader' =>
-				[
+				array (
 					'E-book Reader' => 'ই-বুক রিডার',
 					'Menu' => 'মেনু',
 					'Fullscreen' => 'ফুলস্ক্রিন',
-				],
+				),
 			'Metadata: Indexing' =>
-				[
+				array (
 					'Please note that this will import metadata from the files and can overwrite metadata which you have manually added.' => 'দয়া করে লক্ষ্য করুন যে এটি ফাইলগুলির থেকে মেটাডেটা ইমপোর্ট করবে এবং আপনি ম্যানুয়ালি যুক্ত করা মেটাডেটা ওভাররাইট করতে পারে।',
 					'Collecting file list...' => 'ফাইল তালিকা সংগ্রহ করা হচ্ছে ...',
 					'%1 files found' => '%1 টি ফাইল পাওয়া গেছে',
@@ -2070,29 +2069,28 @@
 					'Retrying...' => 'পুনরায় চেষ্টা করা হচ্ছে...',
 					'Cancel' => 'বাতিল',
 					'Close' => 'বন্ধ',
-				],
+				),
 			'Custom Actions: Photo Proof Sheet' =>
-				[
+				array (
 					'Create photo proof sheet' => 'ছবি প্রুফ শীট তৈরি করুন',
 					'Photo proof sheet successfully created in your home folder.' => 'ছবি প্রুফ শীট সফলভাবে আপনার হোম ফোল্ডারে তৈরি হয়েছে।',
-				],
+				),
 			'Custom Actions: Bing Maps' =>
-				[
+				array (
 					'Bing Maps API Key' => 'বিং ম্যাপস API কী',
-				],
+				),
 			'Admin: Guest Users' =>
-				[
+				array (
 					'Enable guest user accounts' => 'অতিথি ব্যবহারকারী অ্যাকাউন্ট সক্রিয় করুন',
-				],
+				),
 			'Custom Actions: HTML Editor' =>
-				[
+				array (
 					'HTML Editor' => 'এইচটিএমএল এডিটর',
 					'Save' => 'সংরক্ষণ করুন',
 					'Save and close' => 'সংরক্ষণ করুন এবং বন্ধ করুন',
 					'Close' => 'বন্ধ করুন',
 					'Unsaved changes' => 'অসংরক্ষিত পরিবর্তন',
 					'Discard the changes made?' => 'পরিবর্তনগুলো বাতিল করবেন?',
-
     ),
   ),
 );
