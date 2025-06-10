@@ -1,20 +1,20 @@
-# 🇧🇩 FileRun Bangla (Bengali) Translation
+# 🇧🇩 FileRun bengali (Bengali) Translation
 
-This repository contains a community-submitted translation of FileRun into **Bangla (Bengali)**, based on the official `russian.php` language file.
+This repository contains a community-submitted translation of FileRun into **bengali (Bengali)**, based on the official `russian.php` language file.
 
 ---
 
 ## 📌 Overview
 
 - Original file: `language-files/russian.php`
-- Translated file: `language-files/bangla.php`
-- Goal: Introduce official Bangla support in FileRun to help Bengali-speaking users.
+- Translated file: `language-files/bengali.php`
+- Goal: Introduce official bengali support in FileRun to help Bengali-speaking users.
 
 ---
 
 ## 🚧 Current Status
 
-> ⚠️ The `bangla.php` file is not yet officially supported.  
+> ⚠️ The `bengali.php` file is not yet officially supported.  
 > ⚠️ The translation may contain syntax or encoding issues that prevent it from working in FileRun’s control panel.  
 > ✔️ Feedback and technical review are welcomed and encouraged.
 
@@ -25,20 +25,20 @@ This repository contains a community-submitted translation of FileRun into **Ban
 | File Name              | Description                                    |
 |------------------------|------------------------------------------------|
 | `russian.php`          | Source file used for translation              |
-| [bangla.php](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bangla.php)          | Translated version in Bangla (Bengali)        |
+| [bengali.php](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bengali@main/bengali.php)          | Translated version in bengali (Bengali)        |
 
 ---
 
 ## How to Download
 
-### 👉 [Download Latest Version - Bangla](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bangla.php)
+### 👉 [Download Latest Version - bengali](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bengali@main/bengali.php)
 
 ## 💬 How to Contribute
 
 - Clone or fork this repository
-- Test the Bangla translation in your FileRun setup
+- Test the bengali translation in your FileRun setup
 - Report issues or submit pull requests for improvements
-- Help request official inclusion of Bangla language support in FileRun
+- Help request official inclusion of bengali language support in FileRun
 
 ---
 
