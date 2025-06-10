@@ -1,7 +1,7 @@
-<?php
-return [
-	'trans' =>
-		[
+<?php return array (
+  'trans' => 
+  array (
+	  
 			'Login Page' =>
 				[
 					'Username' => 'ইউজারনেম',
@@ -2092,6 +2092,7 @@ return [
 					'Close' => 'বন্ধ করুন',
 					'Unsaved changes' => 'অসংরক্ষিত পরিবর্তন',
 					'Discard the changes made?' => 'পরিবর্তনগুলো বাতিল করবেন?',
-				],
-		]
-];
+
+    ),
+  ),
+);
