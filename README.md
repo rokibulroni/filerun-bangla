@@ -25,13 +25,13 @@ This repository contains a community-submitted translation of FileRun into **ben
 | File Name              | Description                                    |
 |------------------------|------------------------------------------------|
 | `russian.php`          | Source file used for translation              |
-| [bengali.php](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bengali.php)          | Translated version in bengali (Bengali)        |
+| [bengali.php](https://github.com/rokibulroni/filerun-bangla/releases/download/v.1.1/bengali.php)          | Translated version in bengali (Bengali)        |
 
 ---
 
 ## How to Download
 
-### 👉 [Download Latest Version - bengali](https://cdn.jsdelivr.net/gh/rokibulroni/filerun-bangla@main/bengali.php)
+### 👉 [Download Latest Version - bengali](https://github.com/rokibulroni/filerun-bangla/releases/download/v.1.1/bengali.php)
 
 ## 💬 How to Contribute
 
